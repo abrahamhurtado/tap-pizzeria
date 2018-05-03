@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="sizeLabel">Tamaño</string>
+    <string name="sizeShort">Pequeño ($14)</string>
+    <string name="sizeMiddle">Mediano ($18)</string>
+    <string name="sizeLarge">Grande ($21)</string>
+    <string name="ingredientsLabel">Ingredientes</string>
+    <string name="quesoExtra">Queso extra ($0.50)</string>
+    <string name="mushrooms">Chapmiñones ($0.50)</string>
+    <string name="aceitunas">Aceitunas ($0.50)</string>
+    <string name="cebolla">Cebolla ($0.50)</string>
+    <string name="pimienta">Pimienta verde ($0.50)</string>
+    <string name="tomate">Tomate ($0.50)</string>
+    <string name="pepperoni">Pepperoni ($1)</string>
+    <string name="jamon">Jamón ($1)</string>
+    <string name="camaron">Camarón ($1)</string>
+    <string name="anchoas">Anchoas ($1)</string>
+    <string name="recoger">Recoger</string>
+    <string name="domicilio">A domicilio ($2)</string>
+    <string name="entregaLabel">Entrega</string>
+    <string name="buyButton">Comprar</string>
+</resources>
